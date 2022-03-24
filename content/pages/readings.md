@@ -146,7 +146,7 @@ Westney, Eleanor. "Shimano Inc." MIT Sloan School Case.
 
 ### Required Reading
 
-Lessard, D., R. Lucea, and L. Vives. ["Global Strategy for the 21st Century: The RAT/CAT Capabilities Perspective." (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)PDF)](http://www.icgd.hku.hk/2011-2012/Feb16_ppt1.pdf) _MIT Sloan Management Review_.
+Lessard, D., R. Lucea, and L. Vives. ["Global Strategy for the 21st Century: The RAT/CAT Capabilities Perspective." (PDF)](http://www.icgd.hku.hk/2011-2012/Feb16_ppt1.pdf) _MIT Sloan Management Review_.
 
 
 {{< tdclose >}}
@@ -175,7 +175,7 @@ Building Metanational Advantage: To be national or not to be national—is that 
 
 ### Case
 
-Renault-Nissan. ["Alliance Facts and Figures 2009." (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)PDF - 1.5MB)](https://www.slideshare.net/shivakumar86/alliance-factsandfigures2009)
+Renault-Nissan. ["Alliance Facts and Figures 2009." (PDF - 1.5MB)](https://www.slideshare.net/shivakumar86/alliance-factsandfigures2009)
 
 ### Required Readings
 
@@ -283,7 +283,7 @@ Local Adaptation: Can you weld uniformity in different places?
 
 ### Case
 
-Siegel, Jordan I., and Barbara Zepp Larson. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Labor Market Institutions and Global Strategic Adaptation: Evidence from Lincoln Electric." (PDF)](http://www.people.hbs.edu/jsiegel/SiegelLarson_ManagementScience_2009.pdf) _Management Science_ 55, no. 9 (2009): 1527–46.
+Siegel, Jordan I., and Barbara Zepp Larson. ["Labor Market Institutions and Global Strategic Adaptation: Evidence from Lincoln Electric." (PDF)](http://www.people.hbs.edu/jsiegel/SiegelLarson_ManagementScience_2009.pdf) _Management Science_ 55, no. 9 (2009): 1527–46.
 
 (The case of Lincoln Electric is described in the article. You may skip sections 4, 5, and 6 of the article in your preparation for class discussion.)
 
